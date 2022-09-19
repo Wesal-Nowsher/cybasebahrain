@@ -1,0 +1,265 @@
+{
+    "nav":[
+        {"name":"home", "href":"#"},
+        {"name":"features", "href":"#features"},
+        {"name":"plans", "href":"#plans"},
+        {"name":"how it works", "href":"#hiws"},
+        {"name":"faqs", "href":"#Faqs"},
+        {"name":"contacts", "href":"#Contacts"}
+    ],
+    "header":{
+        "h2":"<span style=color:#e2a33a>Organize <span style=color:white>and</span> manage <span style=color:white>your entire </span> business</span>",
+        "p":"An awesome business management tool for teams of all sizes. Business assistant for corporate multitasking",
+        "buttons":"Get Started"
+
+    },
+    "featuresarea":{
+        "head":"Features",
+        "upperhead":["team management", "project management", "communications", "client mangement", "dashboard"],
+        "onebyone":[
+            {
+                "head":"MANAGE YOUR TEAM",
+                "p":"Team module allow the team members to communicate each other as individual or as group, assign and follow up task, view live report of the team members performance.enables you to assign tasks to staff members directly. Creating a task is only possible if a staff member is on the same or lower level of the creator. Text or voice can be used to assign tasks. All tasks are bind within a time frame. Every task has a communication channel that allows the user to clear any task-related doubts.",
+                "buttons":"more",
+                "src":"../assets/b.png"
+            },
+            {
+                "head":"MANAGE YOUR PROJECTS",
+                "p":"Your can create project and project team members into the project in less than 1 minute. This module allow the user to manage the projects from the device. User can assign tasks to each project members, and approve the task once it is completed. All the tasks are linked to a communication channel, through which the user can communicate until the task is completed. Tasks can be created and assigned to an individual or to a group of people.",
+                "buttons":"more",
+                "src":"../assets/d.png"
+            },
+            {
+                "head":"ORGANIZE YOUR COMMUNICATIONS",
+                "p":"you can organize your communications at one place allowing to call his subordinate directly from the app. The user does not require to know the phone number of the person, instead the application will use the updated phone number from the system. The call option is only available on hierarchy basis. i.e. solely based on one's position in the company.",
+                "buttons":"more",
+                "src":"../assets/Group 58.png"
+            },
+            {
+                "head":"CLIENT MANAGEMENT",
+                "p":"You can create client by adding basic details of the client name, logo mail address etc. You can add multiple contacts to each client. It also allows you to make direct contact through the app, by phone or email. For each client user can create a follow up category and add events to it until they complete the follow-up. Follow event can be in voice or text format, and will be attached with a reminder date and time.",
+                "buttons":"more",
+                "src":"../assets/a.png"
+            },
+            {
+                "head":"ANALYTICAL DASHBOARD",
+                "p":"You can check the status of his working life from a single glance. It allows you to just jump to any of the update that you want to cater up with. you can relieve up your status by greens and it will be good go for you.",
+                "buttons":"more",
+                "src":"../assets/f.png"
+            }
+
+        ]
+    },
+    "but1":"Buy 2 licenses, Get 3rd Free from any of these 1 to 4 plans ",
+    "plans":{
+        "head":"Pricing and plans",
+        "allplans":[
+            {
+                "name":"Basic",
+                "place":"OnCloud and on premises",
+                "price":"300.00 BD<span style=font-size:10px>+ 10% VAT</span>",
+                "employees":"Employees: 1 - 5",
+                "button":"register",
+                "updates":"Updates are free",
+                "features":["Online Meeting(NO)","Validity: 12 Months","Database Storage:  250GB","Message Storage: 5GB"]
+            },
+            {
+                "name":"Premium",
+                "place":"OnCloud and on premises",
+                "price":"800.00 BD<span style=font-size:10px>+ 10% VAT</span>",
+                "employees":"Employees: 6 - 40",
+                "button":"register",
+                "updates":"Updates are free",
+                "features":["Online Meeting(YES)","Validity: 12 Months","Database Storage: 1TB","Message Storage: 10GB"]
+            },
+            {
+                "name":"<span style=color:red;font-size:1.5rem; >LIMITED OFFER</span><br/><br/> Premium plan!",
+                "place":"OnCloud only",
+                "price":"400.00 BD<span style=font-size:10px>+ 10% VAT</span>",
+                "employees":"Employees: Unlimited",
+                "button":"register",
+                "updates":"Updates are free",
+                "features":["Online Meeting(YES)","Validity: 12 Months","Database Storage: 1TB","Message Storage: 10GB"]
+            },
+            {
+                "name":"Professional plan!",
+                "place":"OnCloud and on premises",
+                "price":"2000.00 BD<span style=font-size:10px>+ 10% VAT</span>",
+                "employees":"Employees: Unlimited",
+                "button":"register",
+                "updates":"Updates are free",
+                "features":["Online Meeting(YES)","Validity: 12 Months ","white labelled","Database Storage: Unlimited","Message Storage: Unlimited"]
+            }
+        ]    
+    },
+    "faqs":{
+        "header":"Frequently asked questions",
+        "questions":[
+            {
+                "question":"How can I register with CYBASE?",
+                "answer":"Client can register through this Cybase Registation"
+            },
+            {
+                "question":"CYBASE supports both android and ios OS?",
+                "answer":"Yes CYBASE is a native application available for both android and ios device from respective app and play store."
+            },
+            {
+                "question":"How can I login to cybase app?",
+                "answer":"User shall enter username and password and organization license key. The organization admin generates username and password for each employee and a common license key for all employees"
+            },
+            {
+                "question":"Are my conversation kept sure?",
+                "answer":"Message sent using CYBASE are kept sure."
+            },
+            {
+                "question":"What are types of task allowed in Cybase?",
+                "answer":"User can create general task and project specific task."
+            },
+            {
+                "question":"How to manage your notifications?",
+                "answer":"Mobile application supports to manage notification. User allowed to turn ON/OFF notification from settings."
+            }
+        ],
+        "button":"Read More"
+    },
+    "gettingstarted":{
+        "head":"Get started with CYBASE",
+        "p":"Access our guide and discover everything your company needs to become compliant.",
+        "buttons":"Get Started"
+    },
+    "howitworks":{
+        "tophead":"How it works?",
+        "topp":"Start using CYBASE",
+        "process":[
+            {
+                "head":"Create Task",
+                "para":"Creating a task is only possible if a staff member is on the same or lower level of the creator. Text or voice can be used to assign tasks. All tasks are bind within a time frame. Every task has a communication channel that allows the user to clear any task-related doubts."
+            },
+            {
+                "head":"Create Project",
+                "para":"User can create project and project team members into the project in less than 1 minute. This module allow the user to manage the projects from the device."
+            },
+            {
+                "head":"Create Client",
+                "para":"User can create client by adding basic details of the client name, logo mail address etc. User can add multiple contacts to each client. It also allows you to make direct contact through the app, by phone or email."
+            },
+            {
+                "head":"Create Meeting",
+                "para":"User can schedule meetings within the app. This will allow you to be reminded of a meeting and add meeting minutes with voice notes for future reference. Once the meeting is added, all calendars (Apple, Google Outlook, and so on) will be automatically updated and email will send automatically."
+            }
+        ]
+    },
+    "contact":{
+        "tophead":"Get in touch",
+        "topp":"Contact us",
+        "placeholder":"write message",
+        "button":"submit"
+    },
+    
+
+    "manageyourteam":[
+        {
+            "header":"ASSIGN A TASK TO YOUR TEAM MEMBER",
+            "para":"The Team Module enables you to assign tasks to staff members directly. Creating a task is only possible if a staff member is on the same or lower level of the creator. Text or voice can be used to assign tasks. All tasks are bind within a time frame. Every task has a communication channel that allows the user to clear any task-related doubts."
+        },
+        {
+            "header":"COMMUNICATE WITH YOUR TEAM",
+            "para":"This will allow the user to call his subordinate directly from the app. The user does not require to know the phone number of the person, instead the application will use the updated phone number from the system. The call option is only available on hierarchy basis. i.e. solely based on one's position in the company."
+        },
+        {
+            "header":"WATCH THE WORK COMPLETED ON DAILY BASIS",
+            "para":"Cybase allows all employees to easily update their timesheets through the system. The application also provides facility to view every day timesheet of a team member. The higher ups can view this information by selecting a date from the calendar."
+        },
+        {
+            "header":"REPORT",
+            "para":"The staff's live report is at your fingertips. The application will generate a comprehensive report of tasks, projects, timesheets, and sales pipelines, among other things"
+        }
+
+    ],
+    "ORGANIZEYOURPROJECTS":[
+        {
+            "header":"CREATE PROJECT AND ADD MEMBERS TO THE PROJECT",
+            "para":"User can create project and project team members into the project in less than 1 minute. This module allow the user to manage the projects from the device."
+        },
+        {
+            "header":"ASSIGN TASK TO MEMBERS",
+            "para":"User can assign tasks to each project members, and approve the task once it is completed. All the tasks are linked to a communication channel, through which the user can communicate until the task is completed. Tasks can be created and assigned to an individual or to a group of people."
+        },
+        {
+            "header":"ORGANIZE PROJECT MEETINGS",
+            "para":"User can organize project meetings and invite clients and project members to it. When meeting is created all the calendars (Apple, Google, Outlook, etc.) will be automatically updated. As meeting minutes, a voice note (or text) can be attached to each meeting."
+        },
+        {
+            "header":"REGISTER PROJECT ISSUES",
+            "para":"The module allows the user to log any problems encounter while running projects. The problem can be assigned to one or more project members. When an issue is reported, a communication channel to gather information is immediately opened. Once the problem has been resolved, it can be closed."
+        },
+        {
+            "header":"PROJECT FILE REPOSITORY",
+            "para":"User can create folders and subfolders in the project root folder and grant access to other project members to the folders. Access level can be made limited to subfolders or files. The access level can be revoked at any time as well."
+        },
+        {
+            "header":"PROJECT NOTES",
+            "para":"User can add project notes with text or as voice note on daily basis. This will provide an overall view of the project status to the project owner or other team members. Any member assigned to the project can add or listen (or view) to the project notes."
+        }
+
+    ],
+    "CLIENTMANAGEMENT":[
+        {
+            "header":"CLIENT DETAILS",
+            "para":"User can create client by adding basic details of the client name, logo mail address etc. User can add multiple contacts to each client. It also allows you to make direct contact through the app, by phone or email."
+        },
+        {
+            "header":"FOLLOW-UP ON CLIENT REQUIREMENTS",
+            "para":"For each client user can create a follow up category and add events to it until they complete the follow-up. Follow event can be in voice or text format, and will be attached with a reminder date and time. In a single page, user can view closed and active follow ups."
+        },
+        {
+            "header":"ORGANIZE CLIENT MEETINGS",
+            "para":"User can schedule client meetings within the app. This will allow you to be reminded of a client meeting and add meeting minutes with voice notes for future reference. Once the meeting is added, all calendars (Apple, Google Outlook, and so on) will be automatically updated and email will send to the client automatically."
+        },
+        {
+            "header":"MANAGE SALES PIPELINE",
+            "para":"This is an important feature that will allow the user to add a list of projects with the contract value and its status that are currently in the pipeline. This allows the manager to keep track of project under pipeline for each clients and make follow-ups. At any time, a consolidated report of all clients' sales pipeline lists is also available."
+        }
+    ],
+    "ORGANIZEANDMANAGEYOURDAYTODAYAFFAIRS":[
+        {
+            "header":"ASSIGN WORK AND MONITOR",
+            "para":"This is an important feature that will allow the user to add a list of projects with the contract value and its status that are currently in the pipeline. This allows the manager to keep track of project under pipeline for each clients and make follow-ups. At any time, a consolidated report of all clients' sales pipeline lists is also available."
+        },
+        {
+            "header":"ARRANGE MEETINGS WITH TEAM MEMBERS",
+            "para":"This feature enables users to organize meetings among staff or with clients. The meeting can be offline or online. Once the meeting is added, all calendars (Apple, Google, Outlook etc.) will automatically be updated. In addition to that a notification will be sent to remind you of the meeting. This module also allow the user to add minutes of meeting with voice note or text. Meeting module is equipped with online meeting as well. Any staff who has the right to create meeting can create and schedule online meetings and add staff members in it. All meetings will be recorded in repository for future references."
+        },
+        {
+            "header":"ORGANIZE YOUR FILES",
+            "para":"This is an important feature that will allow the user to add a list of projects with the contract value and its status that are currently in the pipeline. This allows the manager to keep track of project under pipeline for each clients and make follow-ups. At any time, a consolidated report of all clients' sales pipeline lists is also available."
+        },
+        {
+            "header":"FOLLOW-UP ON PROJECTS, CLIENTS OR OTHERS",
+            "para":"User can create a follow up category and add events to it until they complete the follow-up. Follow event can be in voice or text format, and will be attached with a reminder date and time. In a single page, you can view closed and active follow ups."
+        },
+        {
+            "header":"KEEP YOURSELF IN CHECK WITH REMINDERS.",
+            "para":"User can create reminders for him or add his team members. Reminders will update the data in team member module and will give alert to all members added in reminders."
+        },
+        {
+            "header":"TRACK YOUR TIME WITH TIMESHEET",
+            "para":"Timesheet allow user to register the time that you spend on daily basis. The user can choose date, time and project in very simple manner. The colander will be updated and the immediate manager can view the time allocation by choosing date from the colander."
+        }
+    ],
+    "privacy":{
+        "head":"PRIVACY POLICY",
+        "para1":"<P>Please read the following Terms and Conditions carefully before you click &quot;I accept the General Terms and Conditions for Online Sales&quot; Button installing, copying, distributing, or using all or any portion of this Software (as defined below), you (hereinafter &quot;Customer&quot;, as defined below) accept all  and  conditions of this agreement. If you do not agree to the terms of this agreement, you are not permitted to use the Software. The Software is licensed, not sold, only in accordance with the terms of this agreement.</P> <h2>1. Definitions:</h2><P><b>&quot;Cybase,&quot; &quot;us,&quot; or &quot;our&quot;</b> means CYBERSPACE TECHNOLOGIES, License # 92401, City Avenue Building 8th Floor 804, Port Saeed, Dubai, United Arab Emirates, even if this agreement is entered into while you are in  the Kingdom of Bahrain. Cybase owns and offers its software for license, trial or demo via direct sales, its online store, or the Sole Agent network in the Kingdom of Bahrain. The use of Cybase&apos;s software/Application is governed by a license included in the software.<br/></P>        <P><b>&quot;Customer&quot;</b> or <b>&quot;you&quot;</b> means you and any legal entity that obtained the Software and on whose behalf it is used; for example, and as applicable, your employer. Customer, by direct contact with Cybase, via its online website and store <a href=”http://www.cybasebahrain.com”>http://www.cybasebahrain.com</a>, can subscribe to a software license package, upgrade the package, or renew the subscription (collectively, Product). Customer can also request technical support and assistance, training services (collectively, Services).<br/></P>        <P><b>&quot;Computer&quot;</b> means a virtual machine or physical personal electronic device that accepts information in digital or similar form and manipulates it for a specific result based on a sequence of instructions, including without limitation desktop computers, laptops, tablets, mobile devices, telecommunication devices, Internet- connected devices, and hardware products capable of operating a wide variety of productivity, entertainment, or other software applications, that conforms to the system requirements of the Software as specified in the Documentation.<br/> </P>        <P><b>&quot;Documentation&quot;</b> means the technical usage guidelines and descriptions of the Software published by Cybase. &quot;Documentation&quot; does not include any forum or content by any third party. <br/></P>        <P><b>&quot;Software Integration&quot;</b> means a unique product offering which combines the Software with an additional product, service or plugin.<br/></P>        <P><b>&quot;Use&quot;</b> means to access, install, download, or otherwise benefit from using the functionality of the Software.<br/></P>   </h2>2. Software License:</h2><P><b> License Grant:</b> If you obtained the Software from Cybase or one of its authorized licensees, and subject to your compliance with the terms of this agreement, including the restrictions (if any) in Section 3, Cybase grants to you a limited, non-exclusive, non-transferable, non-sub licensable, non-refundable subscription, revocable license to Use the Software in a manner consistent with its design and intended purpose. By clicking the &quot;Buy now&quot; button, you send us a binding offer for the conclusion of a purchase agreement with Cybase regarding the Software.<br/></P>  <P><b>General Use:</b> You may install and Use multiple copies of the Software on your Computer, Laptop, Tablet, or Smart phone.<br/></P> <P> <b>Server Use:</b> This agreement permits you to install or Use the Software on a virtual server, or on premises server.<br/></P> <P> <b>Distribution.</b> This license does not grant you the right to sublicense or distribute the Software.<br/></P>  <P><b>Software Integration.</b> The Software may be provided to you as part of a Software Integration and your use of the Software Integration is subject to any applicable additional terms.<br/></P> <P><b>Availability Limitation.</b> The Software might not be available in all languages or to residents of all countries.<br/></P><h2>3. Restrictions and Requirements:</h2><P><b>Use Obligations.</b> You agree that you will not use the Software other than as permitted by this agreement and that you will not use the Software in a manner inconsistent with its design or Documentation. <br/></P><P><b>Integration Restrictions.</b> You will not integrate or use the Software with any other software, plug-in, or enhancement unless we provide or expressly authorize the integration.<br/></P><P><b>Plug-in Restrictions.</b> You will not integrate or use the Software with any plug-in software not provided by or previously approved by Cybase.<br/></P><P><b>Disabled Features.</b> The Software may contain features or functionalities that are hidden or appear disabled or &quot;grayed out&quot; (collectively, &quot;Disabled Features&quot;). Disabled Features will activate only when enabling technology available only from Cybase. You will not access, or attempt to access, any Disabled Features by means other than the use of such enabling technologies, nor will you rely on the Software to create a feature substantially similar to any disabled Feature or otherwise circumvent the technology that controls activation of any such feature.<br/></P><P><b>Notices.</b> You will not alter or remove any copyright or other proprietary notice that appears on or in the Software.<br/></P><P><b>No Modification or Reverse Engineering.</b> You will not modify, adapt, translate, or create derivative works based upon the Software. You will not reverse-engineer, decompile, disassemble, or otherwise attempt to discover the source code of the Software.<br/></P><h2>4. No Transfer</h2> <P>You will not rent, lease, sell, sublicense, assign, or transfer your rights in the Software, or authorize any portion of the Software to be copied onto another individual or legal entity&apos;s Computer,  Tablet, or Mobile except as may be expressly permitted herein</P><h2>5. Intellectual Property Ownership, Reservation of Rights:</h2><P>The Software is the intellectual property of Cybase and its suppliers. The structure, organization, and code of     the Software are the valuable intellectual property (e.g., trade secrets and confidential information) of Cybase and its suppliers. The Software is protected by law, including without limitation the copyright laws of the United Arab Emirates and the Kingdom of Bahrain, and by international treaty provisions. Except as expressly stated herein, this agreement does not grant you any intellectual property rights to the Software, and all rights not expressly granted are reserved by Cybase and its suppliers.</P><h2>6. Feedback:</h2><P>You have no obligation to provide us with ideas, suggestions, or proposals (&quot;Feedback&quot;). If you choose to submit feedback to us, then you grant us a non-exclusive, worldwide, royalty-free, sub licensable, and transferable license to make, use, sell, and have made, offer to sell, import, reproduce, publically display, distribute, modify, and publically perform the feedback.</P><h2>7. Internet Connectivity and Privacy</h2> <P><b>Automatic Connections to the Internet.</b> The Software may cause your Computer, Tablet, or Mobile without notice, to automatically connect to the Internet and to communicate with a Cybase website or Cybase domain for purposes such as providing you with additional information, features, or functionality. Unless otherwise specified in this Section, the following provisions apply to all automatic Internet connections by the Software.<br/></P> <P><b>Collection of Information.</b> Whenever the Software connects to Cybase over the Internet, certain information is collected and transmitted by the Software to Cybase pursuant to the Cybase Online Privacy Policy available at http://www.cybasebahrain.com/privacy (&quot;Privacy Policy&quot;), which may be updated from time to time.<br/></P> <P><b>Updating.</b> We may modify, update, or discontinue the Software (including any portions or features) at any time, without liability to you or anyone else. The Software may cause your Computer, Tablet, or Mobile without additional notice, to automatically connect to the Internet (intermittently or on a regular basis) to: (a) check for Updates that are available for download and installation on the Computer, the Tablet, or the Mobile; (b) automatically download and install Updates; and (c) notify Cybase of the results of installation attempts. These updates may take the form of bug fixes, new features, or new versions. You agree to receive such updates from Cybase as part of your use of the Software.<br/></P> <P><b>Mobile/Tablet Application Usage Data.</b> You have the option to share information with us about how the use of our Mobile/Tablet applications. Where permitted by law, this option is turned on by default, and the information is associated with your Cybase account. This information allows us to provide you with a more personalized experience and helps us to assess our offerings and develop, modify, improve, support, customize, and operate our Services based on your use, as applicable, of any Services. You can change your preference any time on your Cybase Account Management page. To learn more about Mobile/Tablet application usage data, go to <a  href=”https://help.cybasebahrain.com”>https://help.cybasebahrain.com.</a><br/></P>    <h2>8. Third-Party Offerings:</h2><P>The Software may allow you to access and interoperate with third-party content, software applications, and data services (&quot;Third-Party Offerings &quot;). Your access to and use of any Third-Party Offering, including any services, or information, is governed by the terms and conditions respecting such offerings and by the copyright laws of the United Arab Emirates and the Kingdom of Bahrain. Third-Party Offerings are not owned or provided by Cybase. You agree that you will not use any such Third-Party Offerings in violation of copyright laws of the United Arab Emirates or the Kingdom of Bahrain. Cybase or the third party may at any time, for any reason, modify or discontinue the availability of any Third-Party Offerings. Cybase does not control, endorse, or accept responsibility for Third-Party Offerings. Any dealings between you and any third party in connection with any Third-Party Offerings, including such party&apos;s privacy policies and use of your personal information, delivery of and payment for services, and any other terms, conditions, warranties, or representations associated with such dealings, are solely between you and the third party. Third-Party Offerings might not be available in all languages or to residents of all countries, and Cybase or the third party may, at any time and for any reason, modify or discontinue the availability of any Third-Party Offerings.<br/></P><P>Except as expressly agreed upon by Cybase in a separate agreement, your use of Cybase and the third party offerings is at your own risk.</P>",
+        "para2":"<h2>9. Disclaimer of Warranties:</h2><p>The software is provided &quot;as-is.&quot; to the maximum extent permitted by law; Cybase disclaims all warranties, express or implied, including the implied warranties of non- infringement, merchantability, and fitness for a particular purpose. Cybase further disclaims any warranty that (a) the software will meet your requirements or will be constantly available, uninterrupted, timely, secure, or error-free; (b) the results obtained from the use of the software will be effective, accurate, or reliable; (c) the quality of the software will meet your expectations; or (d) any errors or defects in the software will be corrected.<br/></P> <P>Cybase specifically disclaims all liability for any actions resulting from your use of the software. You may use and access the software at your own discretion and risk, and you are solely responsible for any damage to your computer, Tablet, or Mobile operating system or loss of data that results from the use of and access to the software.</P> <h2>10. Limitation of Liability:</h2><P>With the exception of a party&apos;s obligation to provide indemnification under this agreement and each party&apos;s confidentiality obligations, in no event shall either party, or its licensors or suppliers by virtue of this agreement, have any liability to any other party for any lost profits or costs of procurement of substitute services, or for any incidental, punitive, indirect, special or consequential damages, however caused and under any theory of liability (including negligence) and whether or not such party has been advised of the possibility of such damage. The limitations set forth in this section 10 do not apply to any infringement or misappropriation by either party or its contractors of the other party&apos;s intellectual property rights. In no event shall cybase, its affiliates or its officers, directors, employees, agents, licensors or suppliers be liable to Customers for more than the amount of the amounts paid under this agreement by the Customer. The foregoing limitation on direct damages shall not apply to any breach by Sybase of its confidentiality obligations or Cybase&apos;s intellectual property indemnification obligations under section 5. The parties agree that this section 10 represents a reasonable allocation of risk.<br/></P><P>Cybase&apos;s total liability in any matter arising out of or related to this agreement is limited to the amounts paid under this agreement. This limitation will apply regardless of the form or source of claim or loss, whether the claim or loss was foreseeable, and whether a party has been advised of the possibility of the claim or loss.<br/></P><P>The limitations and exclusions in this section apply to the maximum extent permitted by law.<br/></P><P>Cybase is not liable to you or anyone else for any loss of use, data, goodwill, or profits, whatsoever, and any special, incidental, indirect, consequential, or punitive damages whatsoever, regardless of cause (even if Cybase has been advised of the possibility of the loss or damages), including losses and damages (a) resulting from loss of use, data, or profits, whether or not foreseeable; (b) based on any theory of liability, including breach of contract or warranty, negligence or other tortious action; or (c) arising from any other claim arising out of or in connection with your use of or access to the software. Nothing in this agreement limits or excludes Cybase&apos;s liability for gross negligence, for Cybase&apos;s, or its employees&apos;, Agents&apos;, intentional misconduct, or for death or personal injury.</P> <h2>11. Export Rules:</h2><P>The Software and your use of the Software are subject to United Arab Emirates and Kingdome of Bahrain. As well as the international laws, restrictions, and regulations that may govern the import, export, and use of the Software. You agree to comply with all such laws, restrictions, and regulations.<br/></P><h2>12. Updates and Availability:</h2><P>We may modify this Agreement, for example, to reflect changes to the law or changes to our Software. You should look at this Agreement regularly. We will post notice of modifications to this Agreement on this page. By continuing to use the Software after the revisions are in effect, you agree to be bound by the revised terms of the updated Agreement.</P><h2>13. Miscellaneous:</h2><P><b>English Version.</b> The English version of this agreement or Arabic translated version by any legal office in the United Arab Emirates will be the versions used when interpreting or construing the terms of this agreement.<br/></P><P>Headings. Headings used in this agreement are provided for convenience only and will not be used to construe meaning or intent.<br/></P><P><b>Payments and Collections.</b> Cybase has the right to assign its Sole Agents and authorize them to collect & receive on behalf of Cybase (in Sole Agent&apos;s bank accounts) in their nominated territories, all subscription fees from Customers, with no objections from any party related to this transaction.<br/></P><P><b>Payment Options, Prices, Taxes and Currency.</b> Cybase has facilitate for prospected Customers most of the common method of payments such as (Credit Cards (visa, master card, American express), Benefit, PayPal, Debit Cards) for its offered packages (VAT % inclusive) in Bahraini Dinar.<br/></P><P><b>Right of Customer withdrawal.</b> Applicable and eligible during the offer &quot;Money back guarantee&quot; mentioned in Agent website&apos;s Plans and within the given period for all customers. Such Customer subscription is not refundable after this period.</P><P>Customer withdrawal&apos;s refund is limited to original amount of the subscription; any Government taxes paid by customers are non-refundable.<br/></P><P><b>Severability.</b> If any provision of this agreement is held invalid or unenforceable for any reason, this agreement will continue in full force and effect.<br/></P><P><b>Authorized Agent responsibilities.</b> It&apos;s clear, understood and accepted for all parties in this term and conditions agreement that the Agent assigned by Cybase in the Kingdom of Bahrain has limited responsibilities and liabilities towards Customers, which cover marketing and selling the subscriptions to prospected Customers, and collect on behalf of Cybase via the online store, all subscriptions related to the territory of Bahrain. Agent is responsible for promoting the Software, Demonstrating the Application, and collecting the subscriptions on behalf of Cybase.<br/><b>No Waiver.</b> Our failure to enforce or exercise any provision of this agreement is not a waiver of that provision.<br/></P> <h2>14. Survival:</h2><P>Upon the expiration or termination of this agreement, the Software may cease to operate without prior notice. Your indemnification obligations, Cybase&apos;s warranty disclaimers or limitations of liabilities, and dispute resolution provisions stated in this agreement will survive.</P><h2>15. Termination:</h2><P>Cybase will have the right to terminate this Agreement for any reason or no reason upon providing at least thirty (30) days&apos; prior written notice and refund the unutilized fees for the remaining period of this contract if applicable. Effective upon termination, you will immediately cease your use of the Software and will destroy (at Cybase&apos;s request) your copy of the Software. All licenses granted to you by Cybase will immediately cease upon termination.</P><h2>16. Governing Law and Dispute Resolution:</h2> <P>This Agreement shall be governed by the laws of the United Arab Emirates, without regard to its conflict of law principles. The parties irrevocably attorney to the exclusive jurisdiction of the courts of the United Arab Emirates. No choice of laws rules of any jurisdiction shall apply to this Agreement. The parties confirm that it is their wish that this Agreement be drawn up in English language.</P><h2>17. Force Majeure:</h2><P> Except for each party&apos;s obligations to pay money, neither party shall be deemed to be in breach of this Agreement for any failure or delay in performance caused by reasons beyond its reasonable control, including but not limited to acts of God, earthquakes, wars, terrorism, communication failures, strikes or shortages of materials.</P> <h2>18. Suspension:</h2> <P>Cybase reserves the right to suspend access to the Software and/or service, by the officers, managers, or Authorized technical team,  and without compensation:<br/></P> <ul> <li>In order to perform maintenance on the Software/Application. Cybase undertakes to do everything in its power to restore the service as swiftly as possible;</li>  <li>Due to technical issues caused by the infrastructure. Cybase undertakes to do everything in its power to restore the service as swiftly as possible;</li>  <li>During the period prior to the acceptance or refusal of modifications to the Software Application Terms and Conditions (T&Cs) by the first Authorized User from Customer side;</li>  </ul><h2>19. Data protection:</h2> <P>Cybase shall comply with the provisions of the United Arab Emirates and Kingdom of Bahrain Data Protection Act, and take all reasonable measures to keep Customer&apos;s personal information confidential and secure.</P><h2>20. Tracking Technologies and Cookies:</h2> <P> Cybase uses Cookies and similar tracking technologies to track the activity on the service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze the service offered. The technologies Cybase uses may include:<br/></P> <P><b>Cookies or Browser Cookies.</b> A cookie is a small file placed on your device. You can instruct your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if you do not accept Cookies, you may not be able to use some parts of the service. Unless you have adjusted your browser setting so that it will refuse Cookies, the service may use Cookies.<br/></P> <P><b>Flash Cookies.</b> Certain features of the service offered may use local stored objects (or Flash Cookies) to collect and store information about your preferences or your activity on the service. Flash Cookies are not managed by the same browser settings as those used for Browser Cookies. <br/></P> <P><b>Web Beacons.</b> Certain sections of the service and the emails we will send may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Cybase, for example, to count users who have visited those pages or opened an email and for other related Application statistics (for example, recording the popularity of a certain section and verifying system and server integrity).<br/></P> <P>Cookies can be &quot;Persistent&quot; or &quot;Session&quot; Cookies. Persistent Cookies remain on your personal computer or mobile device when you go offline, while Session Cookies are deleted as soon as you close your App. Cybase uses both Session and Persistent Cookies for the purposes set out below:<br/></P> <P><b>Necessary / Essential Cookies</b><br/></P> <P>Type: Session Cookies<br/></P>  <P>Administered by: Us<br/></P> <P>Purpose: These Cookies are essential to provide you with services available through the Application and to enable you to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that you have asked for cannot be provided, and we only use these Cookies to provide you with those services.<br/></P> <P><b>Cookies Policy / Notice Acceptance Cookies</b><br/></P> <P>Type: Persistent Cookies<br/></P> <P>Administered by: Us<br/></P> <P>Purpose: These Cookies identify if users have accepted the use of cookies on the Application.<br/></P> <P><b>Functionality Cookies</b><br/></P> <P>Type: Persistent Cookies<br/></P> <P>Administered by: Us<br/></P> <P>Purpose: These Cookies allow us to remember choices you make when you use the Application, such as remembering your login details or language preference. The purpose of these Cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time You use the Application.</P>  <h2>21. Use of Your Personal Data:</h2> <P>Cybase may use Personal Data for the following purposes:<br/></P><P><b>To provide and maintain our Service,</b> including monitoring the usage of the service.<br/></P> <P><b>To manage your Account:</b> to manage your registration as a user of the service. The Personal Data you provide can give you access to different functionalities of the service that are available to you as a registered user.<br/></P> <P><b>For the performance of a subscription:</b> the development, compliance and undertaking of the purchase subscription for the service(s) you have purchased or of any other subscription with Cybase through the service.<br/></P> <P><b>To contact you:</b> To contact you by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application&apos;s push notifications regarding updates or informative communications related to the functionalities,  services, including the security updates, when necessary or reasonable for their implementation.<br/></P> <P><b>To provide you</b> with news, special offers and general information about other services and special packages which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information.<br/></P> <P><b>To manage your requests:</b> To attend and manage your requests to us.<br/></P> <P><b>For business transfers:</b> We may use your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by us about the service users is among the assets transferred.<br/></P> <P><b>For other purposes:</b> We may use your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve the service(s), marketing and your experience.<br/></P> <P>We may share your personal information in the following situations:<br/></P> <P><b>With Service Providers:</b> We may share your personal information with Service Providers to monitor and analyze the use of the service offered, to contact you.<br/></P> <P><b>For business transfers: </b>We may share or transfer your personal information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of Cybase business to another company.<br/></P> <P><b>With Affiliates:</b> We may share your information with Cybase affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Cybase parent company and any other subsidiaries, joint venture partners or other companies that we control or that are under common control with Cybase.<br/></P> <P><b>With business partners:</b> We may share your information with Cybase business partners to offer you certain services or promotions.<br/></P> <P><b>With other users:</b> when you share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.<br/></P> <P><b>With Your consent:</b> We may disclose your personal information for any other purpose with your consent.</P>"
+        ,"para3":"<h2>22. Retention of Your Personal Data:</h2><P>Cybase will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.<br/></P><P>Cybase will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of the service offered, or we are legally obligated to retain this data for longer time periods.</P><h2>23. Transfer of Your Personal Data:</h2><P>Your information, including Personal Data, is processed at Cybase&apos;s operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of the Kingdom of Bahrain, where the data protection laws may differ than those from Bahrain jurisdiction.<br/></P><P>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.<br/></P><P>Cybase will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.<br/></P> <h2>24. Disclosure of Your Personal Data:</h2> <P><b>Business Transactions.</b> If Cybase is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.<br/></P> <P><b>Law enforcement.</b> Under certain circumstances, Cybase may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</P> <P><b>Other legal requirements. </b>Cybase  may disclose Your Personal Data in the good faith belief that such action is necessary to:<br/></P> <ul><li> Comply with a legal obligation;</li> <li>Protect and defend the rights or property of Cybase;</li> <li>Prevent or investigate possible wrongdoing in connection with the Service;</li> <li>Protect the personal safety of Users of the Service or the public; and</li> <li>Protect against legal liability</li></ul> <h2>25. Security of Your Personal Data:</h2> <P>The securities of your Personal Data are important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While Cybase strives to use commercially acceptable means to protect your Personal Data, Cybase cannot guarantee its absolute security.</P> <h2>26. Children&apos;s Privacy:</h2> <P>Cybase services do not address anyone under the age of 13. Cybase does not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If Cybase becomes aware that it has collected Personal Data from anyone under the age of 13 without verification of parental consent, Cyabse takes steps to remove that information from its servers.<br/></P> <P>If Cybase needs to rely on consent as a legal basis for processing your information and your country requires consent from a parent, Cybase may require your parent&apos;s consent before it collects and use that information.</P> <h2>27. Links to Other Applications:</h2> <P>Cybase services may contain links to other Applications that are not operated by Cybase. If you click on a third party link, you will be directed to that third party&apos;s App. We strongly advise you to review the Privacy Policy of every App you visit.<br/></P> <P>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party App or services.</P> <h2>28. Contact Us:</h2> <P>If you have any questions about this Privacy Policy, you can contact us by visiting this page on our website: <a href=”www.cybasebahrain.com”>www.cybasebahrain.com</a></P>  "
+ 
+ 
+    }
+}
+
+
+
+
+
+
+

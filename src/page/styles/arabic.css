@@ -1,0 +1,105 @@
+
+.arabic .header-section{
+    /* background-image: url(../../assets/oragener.png); */
+    background-repeat: no-repeat;
+   
+    /* padding-bottom: 5%; */
+    background-size: cover;
+}
+
+.arabic .lang{
+    left: 4%;
+    right: unset;
+}
+.arabic .black-shadow h3{
+    margin: 0px -11px 37px 36px
+}
+.arabic .white-back:last-child{
+    right: unset;
+    left: 0;
+}
+
+
+.arabic .pricingplan{
+    
+    background-size: 100% 100%;
+    
+    padding-bottom: 4%;
+  
+    display: flex;
+    align-items: center;
+    margin: 0% 0% 0% 0%;
+    padding: 4rem 0rem 0rem 0rem;
+    background-position-x: 1%;
+    background-position-y: 17%;
+}
+.arabic .dtr-features-tab{
+    direction: rtl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.arabic  .white-back:first-child{
+    padding: 0% 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-right: 1px solid #80808042;
+    border-top-right-radius: 49px;
+    border-bottom-right-radius: 49px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+
+ 
+}
+.arabic  .white-back:last-child{
+    border-top-left-radius: 49px;
+    border-bottom-left-radius: 49px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: 1px solid #80808029;
+    border-right: none;
+}
+.arabic  .white-back:nth-child(3){
+
+    background:#ffffff
+}
+.arabic  .white-back:nth-child(3) div{
+    background:#ffffff
+}
+.arabic .white-back:nth-child(3) div{
+    position: absolute;
+    right: 0%;
+    padding: 5rem 1vw;
+    /* border: 1px solid #ffffff; */
+    border-radius: 49px;
+    box-shadow: 0px 0px 18px #808080c9;
+    /* margin-left: -55px; */
+    top: -3rem;
+
+}
+
+.white-back{
+    border-top: 1px solid #80808042;
+    border-bottom: 1px solid #80808042;
+}
+
+
+
+
+
+
+
+
+
